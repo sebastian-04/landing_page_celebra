@@ -6,7 +6,7 @@ import * as L from 'leaflet';
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet, NgOptimizedImage],
-  templateUrl: './app.html',
+  templateUrl: './index.html',
   styleUrl: './app.css'
 })
 export class App {
